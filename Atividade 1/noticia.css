@@ -1,0 +1,17 @@
+.ptitulo {
+  font: italic bold 25px Arial;
+  color: #006;
+}
+
+.presumo {
+  font: italic 20px  Arial;
+}
+
+.pautor {
+  font: italic bold 20px Arial;
+  color: #666;
+}
+
+.ptexto {
+  font: 15px Arial;
+}

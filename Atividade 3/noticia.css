@@ -1,0 +1,49 @@
+.principal {
+  font: italic bold 1.3rem Arial;
+  color: green;
+}
+
+.tb1 {
+  border: 1px solid;
+  width: 766px;
+  height: 36px;
+  background-color: #000033;
+}
+
+.titulo {
+  font: italic bold 15px Arial;
+  background-color: #fff;
+}
+
+.origem {
+  font: bold 20px Arial;
+  background-color: #fff;
+}
+
+.resumo {
+  font: 12px Arial;
+  background-color: #fff;
+}
+
+.rodape {
+  font: bold 11px Arial;
+  text-align: center;
+  background-color: #cfb;
+}
+
+a:link {
+  color: #0000ff;
+}
+
+a:visited {
+  color: #ddc71a;
+}
+
+a:active {
+  color: #ac0b44;
+}
+
+a:hover {
+  font-weight: bold;
+  color: #ff0000;
+}
